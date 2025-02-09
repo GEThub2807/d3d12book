@@ -1,0 +1,17 @@
+{
+    "projects": {
+        "BoxTest": {
+            "dependencies": [],
+            "dependents": [],
+            "guid": "4E836FC0-0CAC-6332-0A30-3E2F6D396D39",
+            "lib": false,
+            "pch": false,
+            "vcpkg": false,
+            "window": false
+        }
+    },
+    "solution_guid": "794639E7-6A63-4305-7751-6A8440974F8F",
+    "solution_name": "DemoSolution",
+    "startup_project": "",
+    "version": "1.17.2"
+}
