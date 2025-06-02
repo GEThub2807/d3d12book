@@ -1,0 +1,9 @@
+C:\Users\ethepaut\Documents\GitHub\d3d12book\Common\d3dApp.cpp;C:\Users\ethepaut\Documents\GitHub\d3d12book\Chapter 13 The Compute Shader\WavesCS\WavesCS\x64\Debug\d3dApp.obj
+C:\Users\ethepaut\Documents\GitHub\d3d12book\Common\d3dUtil.cpp;C:\Users\ethepaut\Documents\GitHub\d3d12book\Chapter 13 The Compute Shader\WavesCS\WavesCS\x64\Debug\d3dUtil.obj
+C:\Users\ethepaut\Documents\GitHub\d3d12book\Common\DDSTextureLoader.cpp;C:\Users\ethepaut\Documents\GitHub\d3d12book\Chapter 13 The Compute Shader\WavesCS\WavesCS\x64\Debug\DDSTextureLoader.obj
+C:\Users\ethepaut\Documents\GitHub\d3d12book\Common\GameTimer.cpp;C:\Users\ethepaut\Documents\GitHub\d3d12book\Chapter 13 The Compute Shader\WavesCS\WavesCS\x64\Debug\GameTimer.obj
+C:\Users\ethepaut\Documents\GitHub\d3d12book\Common\GeometryGenerator.cpp;C:\Users\ethepaut\Documents\GitHub\d3d12book\Chapter 13 The Compute Shader\WavesCS\WavesCS\x64\Debug\GeometryGenerator.obj
+C:\Users\ethepaut\Documents\GitHub\d3d12book\Common\MathHelper.cpp;C:\Users\ethepaut\Documents\GitHub\d3d12book\Chapter 13 The Compute Shader\WavesCS\WavesCS\x64\Debug\MathHelper.obj
+C:\Users\ethepaut\Documents\GitHub\d3d12book\Chapter 13 The Compute Shader\WavesCS\FrameResource.cpp;C:\Users\ethepaut\Documents\GitHub\d3d12book\Chapter 13 The Compute Shader\WavesCS\WavesCS\x64\Debug\FrameResource.obj
+C:\Users\ethepaut\Documents\GitHub\d3d12book\Chapter 13 The Compute Shader\WavesCS\GpuWaves.cpp;C:\Users\ethepaut\Documents\GitHub\d3d12book\Chapter 13 The Compute Shader\WavesCS\WavesCS\x64\Debug\GpuWaves.obj
+C:\Users\ethepaut\Documents\GitHub\d3d12book\Chapter 13 The Compute Shader\WavesCS\WavesCSApp.cpp;C:\Users\ethepaut\Documents\GitHub\d3d12book\Chapter 13 The Compute Shader\WavesCS\WavesCS\x64\Debug\WavesCSApp.obj
